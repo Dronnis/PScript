@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PublishAot>true</PublishAot>
+        <AssemblyName>PScript</AssemblyName>
+        <RootNamespace>PScript</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <!-- AOT-safe dependencies -->
+        <PackageReference Include="YamlDotNet" Version="15.1.0" />
+        <PackageReference Include="TimeZoneConverter" Version="6.1.0" />
+    </ItemGroup>
+</Project>

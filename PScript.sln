@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PScript", "PScript\PScript.csproj", "{7AED4B38-8B5D-4554-A22A-C504B1C2C65B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{24766A63-504A-4CF7-A263-DF5B01858FBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AED4B38-8B5D-4554-A22A-C504B1C2C65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AED4B38-8B5D-4554-A22A-C504B1C2C65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AED4B38-8B5D-4554-A22A-C504B1C2C65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AED4B38-8B5D-4554-A22A-C504B1C2C65B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24766A63-504A-4CF7-A263-DF5B01858FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24766A63-504A-4CF7-A263-DF5B01858FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24766A63-504A-4CF7-A263-DF5B01858FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24766A63-504A-4CF7-A263-DF5B01858FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
